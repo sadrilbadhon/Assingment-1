@@ -1,2 +1,2 @@
-# Assingment-1
+# Assingment1
 https://sadrilbadhon.github.io/Assingment-1/
